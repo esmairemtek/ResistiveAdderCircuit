@@ -1,4 +1,5 @@
-# ResistiveAdderCircuit
+# ResistiveAdderCircuit <br />
+CENG215 - Lab03 <br />
 
 Simulating a resistive adding circuit which has sinusoidal voltage sources with PySpice, and finding the sum of n signals.
 
